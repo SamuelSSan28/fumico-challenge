@@ -1,8 +1,11 @@
 {
   "name": "backend",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Teste Desenvlvedor backendfumico",
+  "author": "Samuel Santos",
+  "engines": {
+    "node": "16.x"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
